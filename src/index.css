@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-image-hero {
+  background-image: url('./assets/images/hero-bg1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: min-content;
+  opacity: 0.9;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
